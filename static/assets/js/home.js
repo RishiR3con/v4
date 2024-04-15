@@ -45,7 +45,7 @@ const options = [
     "It is not recommended to share this link with anyone.",
     "discord.gg/BlackCoin for more",
     "© Copyright 2024 BlackCoin Unblocker. All Rights Reserved.",
-    "Customize Doge by going to Settings > Themes",
+    "Customize BlackCoin by going to Settings > Themes",
 ];
 
 function getRandomOption() {
