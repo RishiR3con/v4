@@ -34,7 +34,7 @@ function gpt() {
 }
 
 function nf() {
-  alert('This app is still in development.\nCheck discord.gg/unblocking for details.');
+  alert('This app is still in development.\nCheck discord.gg/BlackCoin for details.');
   /*  document.title = 'Doge | V4';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
