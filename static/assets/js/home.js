@@ -43,8 +43,8 @@ const options = [
     "About:Blank Cloak is highly recommended",
     "Finally, an actual site unblocker that works fast!",
     "It is not recommended to share this link with anyone.",
-    "discord.gg/unblocking for more",
-    "© Copyright 2024 Doge Network. All Rights Reserved.",
+    "discord.gg/BlackCoin for more",
+    "© Copyright 2024 BlackCoin Unblocker. All Rights Reserved.",
     "Customize Doge by going to Settings > Themes",
 ];
 
