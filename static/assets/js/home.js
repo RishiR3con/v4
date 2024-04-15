@@ -37,9 +37,9 @@ setInterval(updateClock, 1000);
 
 
 const options = [
-    "Right-Click to access more features",
-    "Set a custom background in settings.",
-    "Tab Cloaking is highly recommended",
+    "This is a super sexy find",
+    "Samir is the gayest of them all",
+    "Did you know that Dylan Patel was caught on the p0rn hub",
     "About:Blank Cloak is highly recommended",
     "Finally, an actual site unblocker that works fast!",
     "It is not recommended to share this link with anyone.",
